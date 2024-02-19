@@ -1,8 +1,8 @@
 🎨🚀 Dynamic Full Stack Developer & Blockchain Aficionado 🌐💡
 
-Dive into the digital realm with me, a seasoned Full Stack Developer with over 5 years of exhilarating web development expertise! 🌟 From mesmerizing React interfaces to sleek TypeScript architecture, I wield a palette of technologies to paint immersive, scalable, and secure web experiences. 🎨💻
+Dive into the digital realm with me, a seasoned Full Stack Developer with over 7 years of exhilarating web development expertise! 🌟 From mesmerizing React interfaces to sleek TypeScript architecture, I wield a palette of technologies to paint immersive, scalable, and secure web experiences. 🎨💻
 
-But wait, there's more! 🌈 With 6+ years of traversing the blockchain landscape, I'm your trusty guide through the captivating realms of DeFi and NFTs. 🚀 From crafting vibrant NFT marketplaces to sculpting intricate smart contracts, I've mastered the art of blockchain innovation. 💎✨
+But wait, there's more! 🌈 With 5+ years of traversing the blockchain landscape, I'm your trusty guide through the captivating realms of DeFi and NFTs. 🚀 From crafting vibrant NFT marketplaces to sculpting intricate smart contracts, I've mastered the art of blockchain innovation. 💎✨
 
 Driven by an insatiable passion for excellence, I thrive on transforming your wildest digital dreams into dazzling realities. 🌟💼 Let's join forces and unleash boundless creativity, one pixel at a time! 💥🌐
 
